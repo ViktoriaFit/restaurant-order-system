@@ -5,6 +5,7 @@ An automated order management system for restaurants built with **Google Forms**
 ## 🎯 What it does
 
 Customers submit their order through a Google Form. The system automatically:
+
 - Splits multi-item orders into separate rows (1 row = 1 dish)
 - Assigns a unique Order ID to each order
 - Records the order in the Orders sheet
@@ -37,6 +38,17 @@ The kitchen staff can update each dish's status (New / Fulfilled / Cancelled / R
 - Google Forms
 - Google Sheets
 - Google Apps Script (JavaScript)
+
+## 📸 Screenshots
+
+### Order Form (filled)
+![Order Form](form_filled.png.jpg)
+
+### Form Responses
+![Form Responses](form_responses.png.jpg)
+
+### Master List
+![Master List](master_list.png.jpg)
 
 ## 👤 Author
 
